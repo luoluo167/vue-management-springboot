@@ -1,4 +1,4 @@
-package com.tianlihu.management.commons;
+package com.ljl.management.commons;
 
 import org.springframework.stereotype.Component;
 
